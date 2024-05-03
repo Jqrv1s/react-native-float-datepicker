@@ -1,0 +1,15 @@
+{
+  "name": "react-native-float-datepicker",
+  "version": "1.0.0",
+  "description": "A simple float date picker for react native",
+  "main": "src/index.js",
+  "scripts": {},
+  "keywords": [
+    "react-native-date-picker",
+    "datepicker",
+    "date-picker",
+    "float"
+  ],
+  "author": "Silvino Aguiar",
+  "license": "ISC"
+}
