@@ -1,8 +1,2 @@
-
-const greet = nombre => `Hello ${nombre}!`;
-
-greet.prototype = {
-  nombre: String
-};
-
-export { greet };
+export { DatePickerFloat as default } from './DatePickerFloat/DatePickerFloat'
+export { DatePickerFloat } from './DatePickerFloat/DatePickerFloat'
